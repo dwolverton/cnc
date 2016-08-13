@@ -1,0 +1,22 @@
+{
+  "name": "cnc",
+  "version": "1.0.0",
+  "description": "Categorize and Curate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "6.3.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "cookie-parser": "^1.4.3",
+    "express-session": "^1.14.0",
+    "ejs": "^2.4.1",
+    "request": "^2.74.0"
+  }
+}
